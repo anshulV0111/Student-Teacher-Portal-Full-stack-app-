@@ -1,0 +1,9 @@
+.container {
+    text-align: center;
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size:cover;
+    background-position: center;
+    background-image: url("https://thumbs.dreamstime.com/z/white-rough-dry-plaster-texture-curly-curved-lines-as-simple-abstract-background-164415018.jpg")
+}

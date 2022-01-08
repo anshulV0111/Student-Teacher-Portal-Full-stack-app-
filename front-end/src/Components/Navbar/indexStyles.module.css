@@ -1,0 +1,92 @@
+
+.box {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+  }
+  .button{
+      color: white;
+      font-weight: bold;
+  }
+  
+  .appBarStyle {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: flex-start;
+}  
+
+.rightBarStyle {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    align-self: flex-end;
+    align-content: flex-end;
+}  
+
+
+  
+/*.container div {
+    border: 1px #ccc solid;
+    padding: 10px;
+  } */
+  
+  .box1 { 
+    flex: 1;
+  }
+  
+  .box3 {
+    flex:1;
+  }
+  
+  .box2 {
+    flex:1;  
+  }
+  
+ .buttonStyle {
+     background-color: indianred !important;
+ }
+
+ .allButtonStyle {
+    background-color: rgb(40, 187, 138) !important;
+}
+
+.myContainer {
+    background-color: rgb(40, 187, 138) !important;
+}
+
+.container {
+    background-color: #036d80  !important;
+    height: 100px !important;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: #008cff !important;
+}
+.toolbar{
+    width: 100%;  
+    display: flex;
+    position: relative;
+}
+.name {
+    margin-left: 700px !important;
+}
+.bell {
+    margin-left: 700px !important;
+}
+
+.logoutButton {
+    margin-left: 900px !important;
+    background-color: indianred !important;
+    color: honeydew !important;
+}
+
+.buStyle {
+    background-color: #433ca6 !important;
+    color: honeydew !important;
+}
